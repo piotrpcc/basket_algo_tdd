@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\BillTests.vbproj": {}
+    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\BillTests.vbproj": {}
   },
   "projects": {
-    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\BillTests.vbproj": {
+    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\BillTests.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\BillTests.vbproj",
+        "projectUniqueName": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\BillTests.vbproj",
         "projectName": "BillTests",
-        "projectPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\BillTests.vbproj",
+        "projectPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\BillTests.vbproj",
         "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\obj\\",
+        "outputPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"

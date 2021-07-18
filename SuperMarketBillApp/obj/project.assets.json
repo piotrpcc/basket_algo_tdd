@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
+      "projectUniqueName": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
       "projectName": "SuperMarketBillApp",
-      "projectPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
+      "projectPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
       "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\SuperMarketBillApp\\obj\\",
+      "outputPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet"

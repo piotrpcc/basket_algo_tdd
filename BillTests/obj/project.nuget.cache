@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c0sSnCZVzReZfjXpLBzZPKoaa7RjmpxkSkgj+rT7TzIg0T1iK7GvX1YAV7YscWsC9UuHu4RkXJYRu/bLGYuZWQ==",
+  "dgSpecHash": "DuljALLJD3cHSLS/ogFo8HToJsWopjtlHdCYk5XdRape71NxkDg9VE5I9ao6C2g9g+JowaNaRXjAqVpOYz7WaQ==",
   "success": true,
-  "projectFilePath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\BillTests\\BillTests.vbproj",
+  "projectFilePath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\BillTests\\BillTests.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

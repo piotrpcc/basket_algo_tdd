@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "38JUBMrCeWShE87Cc4rgDzGoeZSDRVVL7somTRgP2ZmeaoGo2dvR4U/zaNWdEtUGQN492ZaqH9xgjVRIX2xEVg==",
+  "dgSpecHash": "VTw085PSiGdBSeruppZESVoo2coUq/kv3PDqmoPAOEODUk+PdK/ThmH6CNj/meRgWo0ckL6/9jSxK/SVLIgu/w==",
   "success": true,
-  "projectFilePath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
+  "projectFilePath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillApp\\SuperMarketBillApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
