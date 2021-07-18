@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj": {}
+    "C:\\Users\\User\\github\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj": {}
   },
   "projects": {
-    "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj": {
+    "C:\\Users\\User\\github\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\github\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj",
         "projectName": "SuperMarketBillTests",
-        "projectPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj",
-        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeCool\\18.07\\SuperMarketBillApp\\basket_algo_tdd\\SuperMarketBillTests\\obj\\",
+        "projectPath": "C:\\Users\\User\\github\\basket_algo_tdd\\SuperMarketBillTests\\SuperMarketBillTests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\github\\basket_algo_tdd\\SuperMarketBillTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -72,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
