@@ -196,3 +196,9 @@ C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\obj\Debug\net5.0\Super
 C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\obj\Debug\net5.0\ref\SuperMarketBillTests.dll
 C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\obj\Debug\net5.0\SuperMarketBillTests.pdb
 C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\obj\Debug\net5.0\SuperMarketBillTests.genruntimeconfig.cache
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.deps.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.runtimeconfig.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.runtimeconfig.dev.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.exe
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.dll
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillTests\bin\Debug\net5.0\SuperMarketBillApp.pdb

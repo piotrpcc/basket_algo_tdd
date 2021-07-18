@@ -1,10 +1,13 @@
 using System.Collections.Generic;
 using NUnit.Framework;
+using SuperMarketBillApp;
 
 namespace SuperMarketBillTests
 {
     public class Tests
     {
+        private Counter counter = new Counter();
+
         [SetUp]
         public void Setup()
         {
@@ -13,10 +16,9 @@ namespace SuperMarketBillTests
         //cele: - niepusta lista, jak pusta to błąd
         // - 
         [Test]
-        public void Test1()
+        public void ShouldCalculateTotal()
         {
 
-            Counter counter = new Counter();
             
             var basket = new List<string>
             {
@@ -28,15 +30,25 @@ namespace SuperMarketBillTests
             Assert.AreEqual(10.2, result);
             
         }
-    }
-
-    public class Counter
-    {
-        public object CalculateTotal(List<string> basket)
+        
+        [Test]
+        public void ShouldCalculateTotalWithManyProducts()
         {
-            return 10.2;
+            var newOffer = new Dictionary<string, double>();
+            
+            counter.SetNewOffer(newOffer);
+            var basket = new List<string>
+            {
+                "236565",
+                "111111"
+            };
+
+            var result = counter.CalculateTotal(basket);
+
+            Assert.AreEqual(20.4, result);
         }
     }
+    
     
     
 }

@@ -1,0 +1,16 @@
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.exe
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.deps.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.runtimeconfig.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.runtimeconfig.dev.json
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.dll
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\ref\SuperMarketBillApp.dll
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\bin\Debug\net5.0\SuperMarketBillApp.pdb
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.csprojAssemblyReference.cache
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.AssemblyInfoInputs.cache
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.AssemblyInfo.cs
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.csproj.CoreCompileInputs.cache
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.dll
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\ref\SuperMarketBillApp.dll
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.pdb
+C:\Users\User\github\basket_algo_tdd\SuperMarketBillApp\obj\Debug\net5.0\SuperMarketBillApp.genruntimeconfig.cache
